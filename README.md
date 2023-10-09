@@ -1,0 +1,1 @@
+This first project is part of The Odin Project program and includes a collection of delicious recipes. Enjoy your HTML meal!"
