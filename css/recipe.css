@@ -1,0 +1,18 @@
+
+body{
+    background-color: rgb(193, 181, 204);
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h3{
+    display: flex;
+    justify-content: center;   
+   text-decoration: underline;
+}
+img{
+    display: block;
+    justify-content: center;
+    margin: auto;
+    background-size: cover;
+}
