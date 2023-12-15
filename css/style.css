@@ -1,6 +1,8 @@
 
-*{
-background-color: rgb(193, 181, 204);
+body{
+    height: 1000px;
+background-color: rgb(247, 245, 245);
+font-family: 'Times New Roman', Times, serif;
 
 }
 h1{
@@ -10,13 +12,15 @@ h1{
 h2{
     display: flex;
     color: darkred;
-    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    
 }
 img{
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 30%;
+    border-radius: 15px;
 }
 
 .link {
@@ -29,7 +33,16 @@ img{
 a{
     font-family: 'Times New Roman', Times, serif;
     text-decoration: none;
-    color:blueviolet;
+    color:rgb(53, 52, 52);
     font-size: 20px;
     font-weight: bold;
+}
+.recipe{
+    margin: 50px;
+    border: black solid 2px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(199, 240, 226);
+    border-radius: 25px;
 }
